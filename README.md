@@ -1,24 +1,5 @@
-# README
+This is the repository for my first Ruby on Rails app.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Based from my RubyOnRails immersion class "Complete Ruby on Rails Developer Course" on Udemy.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Professor: Mashrur Hossain
